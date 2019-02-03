@@ -1,2 +1,3 @@
-list_number = [x * 0.5 for x in range(4,12)]
-print(list_number)
+def list_number():
+    print([list_number * 0.5 for list_number in range(4,12)])
+list_number()
